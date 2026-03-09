@@ -1,0 +1,25 @@
+# Font family folders — ignored entirely (binaries not distributed)
+# Covers any subfolder under fonts/, including ones not yet created.
+# To add a font: drop the family folder here locally; Git will ignore it automatically.
+fonts/*/
+
+# Workflow D — generated/working files (recreate per One-Time Setup in the skill guide)
+factory/macro-seed.pptm
+factory/working.pptx
+factory/output.svg
+factory/output_*.svg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp export folder
+factory/_svg_tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Internal task tracking
+todo/

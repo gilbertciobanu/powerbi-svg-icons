@@ -1,0 +1,14 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96' width='100%' height='100%' fill='none'>
+  <!--
+    Icon Name  : Square Plus
+    Style      : Minimalist, modern, flat (Fluent 2 Filled)
+    Variant    : Filled
+    Created    : 2026-03-08
+    Prompt     : Based on frame-square-fluent, create "square-plus" with thinner lines and rounded ends for the plus, transparent cutout.
+    Summary    : [Workflow A] 96x96 viewBox; 4px padding; rx=15 Fluent square; transparent plus cutout via fill-rule evenodd compound path; plus as single unified cross outline (8px thick, rx=4, 48px arms); stroke separate from compound fill
+  -->
+  <!-- Square fill with plus cutout — plus traced as single path to avoid intersection fill-back -->
+  <path fill-rule='evenodd' fill='#1C3879' d='M19,4H77A15,15 0 0 1 92,19V77A15,15 0 0 1 77,92H19A15,15 0 0 1 4,77V19A15,15 0 0 1 19,4Z M44,28A4,4 0 0 1 48,24A4,4 0 0 1 52,28V44H68A4,4 0 0 1 72,48A4,4 0 0 1 68,52H52V68A4,4 0 0 1 48,72A4,4 0 0 1 44,68V52H28A4,4 0 0 1 24,48A4,4 0 0 1 28,44H44Z'/>
+  <!-- Square outline stroke (separate so it doesn't stroke around plus) -->
+  <rect x='4' y='4' width='88' height='88' rx='15' fill='none' stroke='#1C3879' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/>
+</svg>

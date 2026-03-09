@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96' width='100%' height='100%' fill='none'>
+  <!--
+    Icon Name  : Frame Square Fluent
+    Style      : Minimalist, modern, flat (Fluent 2 Filled)
+    Variant    : Filled
+    Created    : 2026-03-08
+    Prompt     : Create a square icon ("frame-square-fluent", both regular and filled), based on the Fluent 2 square (ic_fluent_square_48), with transparent padding reduced to 4 px.
+    Summary    : [Workflow A] Square 96x96 viewBox; 4px padding; rx=15 (Fluent 2 proportional corner radius 17.4%); stroke-width 5
+  -->
+  <rect x='4' y='4' width='88' height='88' rx='15' fill='#1C3879' stroke='#1C3879' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/>
+</svg>

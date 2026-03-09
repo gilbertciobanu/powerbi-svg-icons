@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96' width='100%' height='100%' fill='none'>
+  <!--
+    Icon Name  : Frame Triangle Fluent
+    Style      : Minimalist, modern, flat (Fluent 2 Regular)
+    Variant    : Regular
+    Created    : 2026-03-08
+    Prompt     : Create frame-triangle-fluent based on ic_fluent_triangle_48_regular, reduce transparent padding to 4 px.
+    Summary    : [Workflow A] 96x96 viewBox; scaled from Fluent 48 (scale 2.095, translate -2.26,-1.48); 4px h-padding, 7.4px v-padding (aspect ratio preserved)
+  -->
+  <path d='M51.7033 16.189C50.3373 13.5947 46.6296 13.5742 45.2349 16.1532L11.8145 77.9543C10.4936 80.3969 12.2623 83.3642 15.0391 83.3642H81.0004C83.7595 83.3642 85.5297 80.4315 84.2443 77.9901L51.7033 16.189ZM40.6283 13.662C44.0152 7.3987 53.0199 7.4485 56.3373 13.749L88.8783 75.5503C92 81.4789 87.7008 88.6013 81.0004 88.6013H15.0391C8.2954 88.6013 4 81.3951 7.2078 75.4631L40.6283 13.662Z' fill='#1C3879'/>
+</svg>

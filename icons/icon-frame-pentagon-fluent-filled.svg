@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96' width='100%' height='100%' fill='none'>
+  <!--
+    Icon Name  : Frame Pentagon Fluent
+    Style      : Minimalist, modern, flat (Fluent 2 Filled)
+    Variant    : Filled
+    Created    : 2026-03-08
+    Prompt     : Create frame-pentagon-fluent based on ic_fluent_pentagon_48_regular, reduce transparent padding to 4 px.
+    Summary    : [Workflow A] 96x96 viewBox; scaled from Fluent 48 (scale 2.161, translate -3.87,-0.87); 4px h-padding, 6.1px v-padding (aspect ratio preserved)
+  -->
+  <path d='M42.598 8.4549C45.8185 6.1126 50.1816 6.1126 53.4021 8.4549L87.4391 33.211C90.6546 35.5498 92 39.6919 90.7726 43.4736L77.7687 83.5386C76.54 87.3241 73.0131 89.8874 69.0333 89.8874H26.9668C22.987 89.8874 19.4599 87.3241 18.2314 83.5386L5.2274 43.4736C4 39.6919 5.3454 35.5498 8.5608 33.211L42.598 8.4549Z' fill='#1C3879'/>
+</svg>

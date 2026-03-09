@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96' width='100%' height='100%' fill='none'>
+  <!--
+    Icon Name  : Frame Hexagon Fluent
+    Style      : Minimalist, modern, flat (Fluent 2 Filled)
+    Variant    : Filled
+    Created    : 2026-03-08
+    Prompt     : Create frame-hexagon-fluent based on ic_fluent_hexagon_48_regular, reduce transparent padding to 4 px.
+    Summary    : [Workflow A] 96x96 viewBox; scaled from Fluent 48 (scale 2.182, translate -4.36,-4.36); 4px h-padding, 8.7px v-padding (aspect ratio preserved)
+  -->
+  <path d='M23.0986 12.3729C24.3498 10.1242 26.7213 8.73 29.2946 8.73H66.706C69.2795 8.73 71.6507 10.1243 72.9019 12.3729L90.8073 44.5525C92 46.696 92 49.304 90.8073 51.4475L72.9019 83.627C71.6507 85.8757 69.2795 87.27 66.706 87.27H29.2946C26.7213 87.27 24.3498 85.8757 23.0986 83.627L5.1928 51.4477C4 49.304 4 46.696 5.1928 44.5525L23.0986 12.3729Z' fill='#1C3879'/>
+</svg>
