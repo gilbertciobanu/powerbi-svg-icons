@@ -1,11 +1,3 @@
----
-title: "powerbi-svg-icons-skill-guide"
-format:
-  pdf:
-    colorlinks: true   # Makes hyperlinks clickable and colored
-    toc: true          # Optional: Adds a Table of Contents
----
-
 # Power BI SVG Icon Skill — Guide & Reference
 
 > **Audience: end users.** This file is human-facing documentation — it is not read by Claude and contains no skill instructions. For the agent entry point, see `SKILL.md` in the root folder.

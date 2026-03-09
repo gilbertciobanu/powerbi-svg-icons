@@ -20,7 +20,13 @@ Full guide, prompt examples, design specifications, and tips:
 
 ## Quick start
 
-Point Claude Cowork (part of Claude Desktop) to use this folder locally, then ask:
+Point Claude Desktop / Cowork to your local folder directly — no installation needed.
+
+To install the skill on Claude.ai, go to **Customize** → **Skills** → **"+"** → **Upload a skill** — upload a ZIP of this repository.
+
+> **Note:** Workflows A, B, and C work in any Claude setup. Workflow D (Normalise via PowerPoint) requires a local setup — the Python scripts and `factory/` workspace need to run on your machine.
+
+Try these prompts:
 
 ```
 Create a "filter" icon, both Regular and Filled variants.
@@ -33,5 +39,3 @@ Normalise ic_fluent_notebook_32_regular, ic_fluent_calendar_48_regular — batch
 ```
 Convert icon-filter-regular and icon-filter-filled to DAX measures.
 ```
-
-After you are happy with the results, you can upload the ZIP archive of key folders into your Claude skills section (**Customize** → **Skills** → **"+"**).

@@ -1,11 +1,3 @@
----
-title: "powerbi-svg-icons-vocabulary"
-format:
-  pdf:
-    colorlinks: true
-    toc: true
----
-
 # Power BI SVG Icon Skill — Vocabulary & Prompting Guide
 
 > **Who this is for:** end users who want to prompt the skill more precisely and get consistent results on the first attempt. Knowing the right word often saves a full back-and-forth iteration.
