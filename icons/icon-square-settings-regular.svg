@@ -3,7 +3,7 @@
     Icon Name  : Square Settings
     Style      : Minimalist, modern, flat (Fluent 2 Regular)
     Variant    : Regular
-    Created    : 2026-03-09
+    Created    : 2026-03-09 00:00:00
     Summary    : [Workflow A] 96x96 viewBox; Fluent square frame (rx=15, stroke-width 5); Fluent settings gear at 48px centered at (48,48)
   -->
   <rect x='4' y='4' width='88' height='88' rx='15' fill='none' stroke='#1C3879' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/>

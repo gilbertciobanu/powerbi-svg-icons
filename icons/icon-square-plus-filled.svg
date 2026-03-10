@@ -3,7 +3,7 @@
     Icon Name  : Square Plus
     Style      : Minimalist, modern, flat (Fluent 2 Filled)
     Variant    : Filled
-    Created    : 2026-03-08
+    Created    : 2026-03-08 00:00:00
     Prompt     : Based on frame-square-fluent, create "square-plus" with thinner lines and rounded ends for the plus, transparent cutout.
     Summary    : [Workflow A] 96x96 viewBox; 4px padding; rx=15 Fluent square; transparent plus cutout via fill-rule evenodd compound path; plus as single unified cross outline (8px thick, rx=4, 48px arms); stroke separate from compound fill
   -->

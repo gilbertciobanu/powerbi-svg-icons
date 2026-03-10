@@ -3,7 +3,7 @@
     Icon Name  : Triangle Attention
     Style      : Minimalist, modern, flat (Fluent 2 Filled)
     Variant    : Filled
-    Created    : 2026-03-08
+    Created    : 2026-03-08 00:00:00
     Prompt     : Create "triangle-attention" based on frame-triangle-fluent with transparent exclamation mark cutout centered inside.
     Summary    : [Workflow A] 96x96 viewBox; Fluent triangle fill; transparent exclamation cutout via fill-rule evenodd; bar capsule (8px wide, y 35→64, rx=4) + circle dot (r=5, cy=74); centered at x=48
   -->

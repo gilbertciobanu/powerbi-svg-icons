@@ -1,5 +1,5 @@
 Square Plus Filled =
--- icon-square-plus-filled.svg | 2026-03-08
+-- icon-square-plus-filled.svg | 2026-03-08 00:00:00
 VAR _svg =
     "data:image/svg+xml;utf8," &
     "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96' width='100%25' height='100%25' fill='none'>" &

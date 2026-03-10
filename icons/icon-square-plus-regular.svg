@@ -3,7 +3,7 @@
     Icon Name  : Square Plus
     Style      : Minimalist, modern, flat (Fluent 2 Regular)
     Variant    : Regular
-    Created    : 2026-03-08
+    Created    : 2026-03-08 00:00:00
     Prompt     : Based on frame-square-fluent, create "square-plus" with thinner lines and rounded ends for the plus.
     Summary    : [Workflow A] 96x96 viewBox; 4px padding; rx=15 Fluent square outline; plus as two stroked lines (24→72), stroke-width 8, round linecap; stroke-width 5 for square
   -->

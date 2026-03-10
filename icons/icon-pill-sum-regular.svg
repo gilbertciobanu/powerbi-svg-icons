@@ -3,7 +3,7 @@
     Icon Name  : Pill Sum
     Style      : Minimalist, modern, flat (Fluent 2 Regular)
     Variant    : Regular
-    Created    : 2026-03-08
+    Created    : 2026-03-08 00:00:00
     Prompt     : Create icon "pill-sum" (both regular and filled variants) based on frame-pill-384x96: same dimensions, only add the text "Sum of MonthNumber" inside it (centered vertically and horizontally). The font should be Figtree Black 900, converted to path (aim for 3/5 text height inside the pill, but optimize it to have at least 30 px horizontally between text and pill border on each side).
     Summary    : [Workflow A] Pill 384x96 viewBox; 4px padding; rx=44; Figtree Black 900 glyph-to-path "Sum of MonthNumber"; visual text height 22.9px (26% inner, constrained by 30px h-margin); optically centered; stroke-width 5
   -->

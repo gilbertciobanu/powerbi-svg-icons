@@ -3,7 +3,7 @@
     Icon Name  : Pill Dynamic
     Style      : Minimalist, modern, flat (Fluent 2 Regular)
     Variant    : Regular
-    Created    : 2026-03-08
+    Created    : 2026-03-08 00:00:00
     Prompt     : Create icon "pill-dynamic" based on frame-pill-384x96 with "Dynamic Text" as Arial Bold dynamic text rendered by DAX at font-size 40.
     Summary    : [Workflow B] Pill 384x96 viewBox; 4px padding; rx=44; Arial Bold dynamic <text> font-size 40; text-anchor middle + dominant-baseline central; DAX-replaceable content; stroke-width 5
   -->

@@ -1,0 +1,11 @@
+Pill Dynamic Regular =
+-- icon-pill-dynamic-regular.svg | 2026-03-08 00:00:00
+VAR _label = "Dynamic Text"
+VAR _svg =
+    "data:image/svg+xml;utf8," &
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 384 96' width='100%25' height='100%25' fill='none'>" &
+        "<rect x='4' y='4' width='376' height='88' rx='44' fill='none' stroke='%231C3879' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/>" &
+        "<text x='192' y='48' text-anchor='middle' dominant-baseline='central' font-family='Arial' font-weight='bold' font-size='40' fill='%231C3879'>" & _label & "</text>" &
+        "</svg>"
+RETURN
+    _svg
